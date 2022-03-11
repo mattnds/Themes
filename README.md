@@ -46,25 +46,7 @@
 <h1>Themes</h1>
 
 <ul>
-  <li><h2>Space</h2>
-  <img src="https://i.imgur.com/eLkyvc0.png">
-  <a href="http://imgur.com/a/0hmbl">(More can be found here)</a></li>
-  <li><h2>Nature</h2>
-  <img src="http://i.imgur.com/1B7IA96.png">
-  <a href="http://imgur.com/a/PuXie">(More can be found here)</a></li>
-  <li><h2>Subway</h2>
-    <img src="http://i.imgur.com/M5ZH9Dh.png">
-    <a href="http://imgur.com/a/1aO8E">(More can be found here)</a></li>
-  <li><h2>Colors</h2>
-    <img src="http://i.imgur.com/ZUEzkiT.png">
-    <a href="http://imgur.com/a/ub0Jl">(More can be found here)</a></li>
-  <li><h2>Minimal</h2>
-    <img src="http://i.imgur.com/aaosiZ2.png">
-    <a href="http://imgur.com/gallery/bZHDF">(More can be found here)</a></li>
-  <li><h2>Grayscale</h2>
-    <img src="http://i.imgur.com/K0uT5ua.png">
-    <a href="http://imgur.com/gallery/1TYFd">(More can be found here)</a></li>
-  <li><h2>Sea</h2>
-    <img src="http://i.imgur.com/yapFCCe.png">
-    <a href="http://imgur.com/a/3BsTW">(More can be found here)</a></li>
+   <li><h2>DGD</h2>
+    <img src="https://i.redd.it/zjf1avlghpv61.png">
+    <a href="https://i.redd.it/zjf1avlghpv61.png">(More can be found here)</a></li>
   </ul>
